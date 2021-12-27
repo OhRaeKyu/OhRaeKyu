@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Raekyu,%20Oh&fontSize=70&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<table>
+<table align="center">
     <tr>
         <td valign="top" width="33.3%">
             <h4 align="center">FE</h4>
