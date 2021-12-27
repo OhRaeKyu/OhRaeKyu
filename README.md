@@ -1,31 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Raekyu,%20Oh&fontSize=70&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<table div align="center">
-    <tr div align="center">
-        <td valign="top" width="33%">
+<table>
+    <tr>
+        <td valign="top" width="33.3%">
             <h4 align="center">FE</h4>
             <div align="center">
                 <img src="https://img.shields.io/badge/HTML-E34F26?style=style=flat-square&logo=html5&logoColor=white" alt="HTML" />
                 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
                 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
                 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript" />
-            </div>
-            <div align="center">
                 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
                 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chartjs" />          
             </div>
         </td>
-        <td valign="top" width="33%">
+        <td valign="top" width="33.3%">
             <h4 align="center">BE</h4>
             <div align="center">
                 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Nodejs" />
-            </div>
-            <div align="center">
                 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Expressjs" />
             </div>
         </td>
-            <td valign="top" width="33%">
+        <td valign="top" width="33.3%">
             <h4 align="center">DevOps</h4>
             <div align="center">
                 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -33,7 +29,7 @@
             </div>
         </td>
     </tr>
-</table>  
+</table>
 
 <br>
 
