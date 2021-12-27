@@ -45,7 +45,7 @@
 
 <br>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">:octocat:  GitHub Stats  :octocat:</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhRaekyu&hide_border=true&layout=compact" align="center" /></div>
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OhRaeKyu&show_icons=true&count_private=true&hide_border=true&theme=swift" align="center" /></div>
  -->
