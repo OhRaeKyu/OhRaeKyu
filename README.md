@@ -3,7 +3,7 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <table align="center">
     <tr>
-        <td valign="top" width="33.3%">
+        <td valign="top" width="50%">
             <h4 align="center">FE</h4>
             <div align="center">
                 <img src="https://img.shields.io/badge/HTML-E34F26?style=style=flat-square&logo=html5&logoColor=white" alt="HTML" />
@@ -14,14 +14,14 @@
                 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chartjs" />          
             </div>
         </td>
-        <td valign="top" width="33.3%">
+<!--         <td valign="top" width="33.3%">
             <h4 align="center">BE</h4>
             <div align="center">
                 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Nodejs" />
                 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Expressjs" />
             </div>
-        </td>
-        <td valign="top" width="33.3%">
+        </td> -->
+        <td valign="top" width="50%">
             <h4 align="center">DevOps</h4>
             <div align="center">
                 <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git" />
