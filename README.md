@@ -11,7 +11,8 @@
                 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
                 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript" />
                 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-                <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chartjs" />          
+                <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chartjs" />
+                <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white" alt="Chartjs" />          
             </div>
         </td>
 <!--         <td valign="top" width="33.3%">
