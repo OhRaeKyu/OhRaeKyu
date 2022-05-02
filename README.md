@@ -37,7 +37,7 @@
 <h3 align="center">📱 Contact Me 📱</h3>
 <div align="center">
     <a href="mailto:dhforb1234@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-    <a href="https://velog.io/@dhforb123"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<!--     <a href="https://velog.io/@dhforb123"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a> -->
 </div>
 
 <br>
